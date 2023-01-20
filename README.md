@@ -1,1 +1,1 @@
-File yang di buat dari local komputer
+Belajar gitignore
