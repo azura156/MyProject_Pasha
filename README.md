@@ -1,1 +1,2 @@
-File yang di buat dari local komputer
+Repository baru di PC lokal
+Belajar reset ddan revert
